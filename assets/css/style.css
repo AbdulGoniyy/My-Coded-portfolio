@@ -373,51 +373,14 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     
 }
 .skill-content{padding: 50px 0 80px;}
-.single-skill-content{padding-top: 100px;}
-.section-heading h2 {
-    font-size: 24px;
-    font-weight: 600;
-    text-transform: uppercase;
-    padding-bottom: 50px;
-    border-bottom: 1px solid #e5ebf2;
-}
-.single-progress-txt {
-    display: flex;
-}
-.single-progress-txt h3 {
-    width: 10%;
-    color: #a606c3;
-    position: relative;
-    top: 6px;
-    left: 20px;
-}
+.single-skill-content{padding-top: 50px;}{
+
 .barWrapper {
     font-weight: 400;
     font-size: 16px;
     text-transform: uppercase;
 }
-.progress {
-    border-radius:3px;
-    overflow: visible;
-    background: #e6ecf3;
-    height:8px;
-    margin-top: 15px;
-    width: 85%;
-    margin-bottom: 37px;
-}
-.progress-bar {
-   background: #b636ff;
-    border-radius: 3px;
-   -webkit-transition: width 1.5s ease-in-out;
-   -ms-transition: width 1.5s ease-in-out;
-   -moz-transition: width 1.5s ease-in-out;
-   -o-transition: width 1.5s ease-in-out;
-   transition: width 1.5s ease-in-out;
-}
-.tooltip{
-   position:relative;
-   float:right;
-}
+
 .tooltip > .tooltip-inner {
    background-color: transparent;
    padding: 1px 5px;
